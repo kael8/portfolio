@@ -86,7 +86,7 @@
   </div>
 
   <div class="banner-2 space-y-10 pb-20">
-    <h3 class="heading3 my-5" style="color: #8ff33c">Skills</h3>
+    <h3 class="heading3 my-5 text-center" style="color: #8ff33c">Skills</h3>
     <div
       class="card"
       style="
