@@ -6,7 +6,7 @@
 
 <p align="center">
   <kbd>
-    <img src="/assets/cover.png" alt="Portfolio Screenshot">
+    <img src="src/assets/cover.png" alt="Portfolio Screenshot">
   </kbd>
 </p>
 
@@ -34,5 +34,5 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/kael8/portfolio.git
    ```
