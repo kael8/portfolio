@@ -77,7 +77,7 @@
           style="
             height: 500px;
             border-radius: 10px;
-            background-color: white;
+
             object-fit: cover;
           "
         />
@@ -702,16 +702,8 @@
   <div
     class="banner-2 flex flex-col md:flex-row items-center md:justify-evenly"
   >
-    <div class="w-full md:w-8/12 flex justify-center mb-8 md:mb-0">
-      <img
-        class="3xl:h-[800px] 2xl:h-[650px] xl:h-[550px] lg:h-[550px] md:h-[450px] sm:h-[350px] rounded-lg border-3 border-green-400"
-        src="./assets/profile2.jpg"
-        alt="user image"
-        style="height: 500px; background-color: white; object-fit: cover"
-      />
-    </div>
     <div
-      class="space-y-5 py-8 px-8 md:py-16 md:px-20 md:w-1/2 text-center md:text-left"
+      class="space-y-5 py-8 px-8 md:py-16 md:px-20 md:w-full text-center"
       id="about"
     >
       <h4 class="text-green-400 text-xl font-bold">About Me</h4>
