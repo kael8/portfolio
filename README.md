@@ -1,6 +1,4 @@
-<h1 align="center">Welcome to Designer-portfolio 👋</h1>
-
-<h5 align="center">Spacial Credit goes to : <a target="_blank" href="https://www.figma.com/@salmanwap">@salmanwap</h5>
+<h1 align="center">Welcome to Arcayl Maisog's Portfolio 👋</h1>
 
 <hr/>
 
@@ -8,47 +6,33 @@
 
 <p align="center">
   <kbd>
-    <img src="sample.png"></img>
+    <img src="/assets/cover.png" alt="Portfolio Screenshot">
   </kbd>
 </p>
 
-### **[click here to see Demo](https://desinger-portfolio.netlify.app/)**.
+### **[Click here to see Demo](https://arcayl-portfolio.netlify.app/)**
 
 ## Sections
 
-✔️ Home Page Banner
-✔️ Works
-✔️ Testimonial
+✔️ Home Page Banner  
+✔️ Skills  
+✔️ My Best Works  
+✔️ Services Offered  
+✔️ About Me  
 ✔️ Contact
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-## How To Use
+### Prerequisites
 
-From your command line, clone and run Designer-Portfolio:
+- Node.js
+- npm or yarn
 
-```bash
-# Clone this repository
-$ git clone https://github.com/mdrathik/designer-portfolio.git
+### Installation
 
-# Go into the repository
-$ cd Designer-portfolio
-
-# Install dependencies
-$ npm install
-
-#Start's development server
-$ npm run dev
-```
-
-## License
-
-No Restrictions, you can edit, add & sell.
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-Credit goes to : [Adam Wathan](https://codepen.io/adamwathan/pen/QWLEJGr) for portfolio section
+1. Clone the repo
+   ```sh
+   git clone https://github.com/your-username/your-repo.git
+   ```
